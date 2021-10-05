@@ -16,3 +16,6 @@ NRP : 05111940000034
 
 - Belakang Atas
 <img src="images/belakang_atas.jpg" height="500" width="500">
+
+- Hasil
+<img src="images/ss_grafkom_tugas1.png" height="500" width="900">
