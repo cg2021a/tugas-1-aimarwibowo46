@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    min-width: 100%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+#myCanvas {
+    width: 1000px;
+    height: 750px;
+    border: 5px solid red;
+}
