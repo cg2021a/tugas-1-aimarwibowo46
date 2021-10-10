@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Tugas Three Js</title>
+
+    <script src="js/three.min.js"></script>
+    <script src="js/OrbitControls.js"></script>
+    <script src="js/main.js"></script>
+
+    <style>
+        * {
+            font-family: Arial, sans-serif;
+            background-color: black;
+            text-align: center;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            color: #eaeaea;
+        }
+
+        h2 {
+            color: gold;
+        }
+
+        select {
+            color: salmon;
+            width: auto;
+            height: auto;
+            font-size: large;
+            margin: 10px;
+        }
+
+        .custom-select{
+            display:flexbox;
+        }
+
+        .light{
+            border-radius: 4px;
+            border: 2px solid lightskyblue;
+        }
+    </style>
+</head>
+
+<body onload="main()">
+    <div class="container">
+        <h1>Aimar Wibowo</h1>
+        <h2>05111940000034</h2>
+    </div>
+
+    <div class="custom-select">
+        <select class="light" id="light">
+            <option value="0">Ambient Light</option>
+            <option value="1">Directional Light</option>
+            <option value="2">Hemisphere Light</option>
+            <option value="3">Point Light</option>
+            <option value="4">Spotlight</option>
+            <option value="5">Disable Light</option>
+        </select>
+
+        <select class="light" id="light_2">
+            <option value="0">Point Light</option>
+            <option value="1">Ambient Light</option>
+            <option value="2">Directional Light</option>
+            <option value="3">Hemisphere Light</option>
+            <option value="4">Spotlight</option>
+            <option value="5">Disable Light</option>
+        </select>
+    </div>
+
+</body>
+
+</html>
