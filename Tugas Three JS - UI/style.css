@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.scoreboard {
+    font-family: 'Montserrat';
+    background-color: gold;
+    position: absolute;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid red;
+    font-size: 1.5rem;
+}
