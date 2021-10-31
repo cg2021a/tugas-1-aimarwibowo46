@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beachhouse
+* source:	https://sketchfab.com/3d-models/beachhouse-ab1495d17e8244f7b53df30fec88472c
+* author:	HiItsSterre (https://sketchfab.com/HiItsSterre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beachhouse" (https://sketchfab.com/3d-models/beachhouse-ab1495d17e8244f7b53df30fec88472c) by HiItsSterre (https://sketchfab.com/HiItsSterre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
